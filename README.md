@@ -8,3 +8,11 @@ The synthetic dataset used in this work can be downloaded from the INFN Open Acc
 
 ## Trained Model
 The trained model are stored in the INFN Open Access Repository. 
+
+## Authors:
+List of Authors:
+- Alessandro Bombini (INFN, sezione di Firenze & ICSC)
+- Fernando García-Avello Bofías (INFN, sezione di Firenze & ICSC)
+- Caterina Bracci (Università di Firenze)
+- Michele Ginolfi (Università di Firenze)
+- Chiara Ruberto  (INFN, sezione di Firenze & Università di Firenze)
