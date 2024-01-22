@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Alessandro"
+  given-names: "Bombini"
+  orcid: "https://orcid.org/0000-0001-7225-3355"
+- family-names: "Fernando García-Avello"
+  given-names: "Bofías"
+  orcid: "https://orcid.org/0000-0001-6640-8736"
+- family-names: "Caterina"
+  given-names: "Bracci"
+  orcid: "https://orcid.org/"
+- family-names: "Michele"
+  given-names: "Ginolfi"
+  orcid: "https://orcid.org/0000-0002-9122-1700"
+- family-names: "Chiara"
+  given-names: "Ruberto"
+  orcid: "https://orcid.org/0000-0003-0321-7160"
+title: "FastExtendedVision-DeepCluster. GitHub repository"
+version: 2024-01-05
+doi: 10.15161/oar.it/143544
+date-released: 2024-01-05
+url: "https://github.com/ICSC-Spoke2-repo/FastExtendedVision-DeepCluster"
